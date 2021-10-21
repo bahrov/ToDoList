@@ -47,6 +47,7 @@ body {
   font-size: 5rem;
   border-radius: 8px;
   padding: 0 2rem;
+  margin-bottom: 0.5rem;
 
   display: flex;
   align-items: center;
@@ -87,7 +88,7 @@ button {
   background-color: transparent;
   border: none;
   margin-left: 2rem;
-  overflow: hidden;
+  overflow: scroll;
 }
 
 .task-input {
